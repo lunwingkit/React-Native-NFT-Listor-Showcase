@@ -72,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 📝  Manifest: https://exp.host/@lunwingkit/react_native_mobileapp/index.exp?sdkVersion=44.0.0 Learn more: https://expo.fyi/manifest-url
 ⚙️   Project page: https://expo.dev/@lunwingkit/react_native_mobileapp?serviceType=classic&distribution=expo-go 
 Learn more: https://expo.fyi/project-page
+
+IPFS hash:
+QmY6J1ycZknRHHvVrJccvJrU9xWmFffdBYRewPLStJhR6E
+IPFS dns:
+https://solitary-dream-9911.on.fleek.co
