@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+📝  Manifest: https://exp.host/@lunwingkit/react_native_mobileapp/index.exp?sdkVersion=44.0.0 Learn more: https://expo.fyi/manifest-url
+⚙️   Project page: https://expo.dev/@lunwingkit/react_native_mobileapp?serviceType=classic&distribution=expo-go 
+Learn more: https://expo.fyi/project-page
